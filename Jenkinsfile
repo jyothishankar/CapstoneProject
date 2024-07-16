@@ -1,4 +1,4 @@
-node{
+master{
     
     def mavenHome, mavenCMD, docker, tag, dockerHubUser, containerName, httpPort = ""
     
